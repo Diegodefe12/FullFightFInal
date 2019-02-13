@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "693296696167",
+    "firebase_url": "https://fullfightfinal-1d8b2.firebaseio.com",
+    "project_id": "fullfightfinal-1d8b2",
+    "storage_bucket": "fullfightfinal-1d8b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693296696167:android:23f176d605a5495e",
+        "android_client_info": {
+          "package_name": "app.diego.com.fullfightfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693296696167-p8jao8feqjkibqe4deh3isk7fueko816.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.diego.com.fullfightfinal",
+            "certificate_hash": "14984b42219ebb1d6e49a27fe95fb39f46ae16e1"
+          }
+        },
+        {
+          "client_id": "693296696167-nk8lbadhoenmkcmude1qmg425hqhe10c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdy4dedggPbqqEp3rnMC3vQHV_-Ku8T0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693296696167-nk8lbadhoenmkcmude1qmg425hqhe10c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
